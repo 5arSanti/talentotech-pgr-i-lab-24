@@ -1,12 +1,14 @@
 import { Component } from '@angular/core';
-import { RouterOutlet } from '@angular/router';
 
 @Component({
   selector: 'app-root',
-  imports: [RouterOutlet],
   templateUrl: './app.component.html',
   styleUrl: './app.component.css'
 })
+
 export class AppComponent {
-  title = 'pgr-i-lab-24';
+  Nombre:string = 'Carlos';
+  Apellido:string = 'Perez';
+  Tecnologia:string = 'Angular';
+  Edad:number = 25;
 }
