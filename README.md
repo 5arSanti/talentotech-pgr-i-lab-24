@@ -1,3 +1,12 @@
+# Sesion 24 - 6.24. Creación de un proyecto con Angular
+
+### Bootcamp de Programacion Nivel Intermedio
+
+Proyecto Talento Tech 2.0
+
+#
+#
+
 # PgrILab24
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.0.2.
